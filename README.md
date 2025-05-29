@@ -3,13 +3,9 @@
 The Personal Finance Tracker is a Python application that helps users record, categorize, and review their personal expenses.
 It allows users to input expenses under custom categories, view all recorded expenses, and see a summary of total spending by category.
 
----
-
 ## How to Run the Script
 
 Load the Python file into any IDE and run it. The program will run in the output terminal.
-
----
 
 ## Python Concepts Used
 
